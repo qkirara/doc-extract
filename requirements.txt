@@ -1,0 +1,6 @@
+pymupdf
+rapidocr-onnxruntime
+ebooklib
+beautifulsoup4
+lxml
+pillow
