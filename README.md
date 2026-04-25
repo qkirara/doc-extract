@@ -1,3 +1,5 @@
+**[English](README.md)** | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [Français](README.fr.md) | [한국어](README.ko.md)
+
 # Doc Extract
 
 Extract text from PDF and EPUB files. Auto-detects scanned vs text PDFs and uses the optimal extraction method.
